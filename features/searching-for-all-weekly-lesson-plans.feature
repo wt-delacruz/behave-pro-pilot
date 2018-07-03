@@ -1,6 +1,6 @@
 Feature: Searching for all weekly lesson plans
 
-  @MPP-4 @OPEN
+  @MPP-4 @OPEN @MANUAL
   Scenario: Teacher lists all weekly lessons authored by EFClass (10 weekly lesson plans)
     Given there are only 10 weekly lesson plans authored
     And a teacher has signed in
