@@ -1,4 +1,4 @@
-@teacher-features
+@teacher-features @automation
 Feature: Searching for all weekly lesson plans
 
   @MPP-4 @OPEN
