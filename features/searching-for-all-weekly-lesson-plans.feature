@@ -1,3 +1,4 @@
+@teacher-features
 Feature: Searching for all weekly lesson plans
 
   @MPP-4 @OPEN
