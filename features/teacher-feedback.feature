@@ -1,6 +1,6 @@
 Feature: Teacher Feedback
 
-  @ORPHAN
+  @MPP-15 @OPEN
   Scenario: Scenario 1
     Background:
     Given the following EFClass users
