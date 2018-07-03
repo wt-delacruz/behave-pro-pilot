@@ -1,7 +1,7 @@
 Feature: Teacher Feedback
 
   @MPP-15 @OPEN
-  Scenario: Scenario 1
+  Scenario: Teacher sees a widget allowing him to open the feedback editor
     Background:
     Given the following EFClass users
     | Name         | Role    |
