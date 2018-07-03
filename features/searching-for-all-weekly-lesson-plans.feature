@@ -15,3 +15,10 @@ Feature: Searching for all weekly lesson plans
     When
     Then
     
+
+  @ORPHAN
+  Scenario: Teacher can not see a list of weekly lesson plans when there is no weekly lesson plans authored
+    Given blah blah blah
+    And blah blah blah
+    When blah
+    Then blah
