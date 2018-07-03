@@ -14,7 +14,7 @@ Feature: Teacher Feedback
     When he interacts with a feedback widget
     Then he should be presented with the full screen feedback panel
 
-  @ORPHAN
+  @MPP-15 @COMPLETED
   Scenario: Teacher can close feedback panel and go to initial location
     Given he opens the full screen feedback panel
     When he closes the full screen feedback panel
