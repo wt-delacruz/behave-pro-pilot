@@ -1,4 +1,4 @@
-Feature: Searching for the most recent weeklhy lesson plans
+Feature: Searching for the most recent weekly lesson plans
 
   @ORPHAN
   Scenario: Teacher list most recent weekly lesson plans
