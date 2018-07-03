@@ -9,7 +9,7 @@ Feature: Teacher Feedback
     And "Ned Flanders" has signed in
     And "Ned Flanders" opens any activity from "Glen White"’s Student Summary
 
-  @MPP-15 @OPEN
+  @MPP-15 @OPEN @MANUAL
   Scenario: Teacher sees a widget allowing him to open the feedback editor
     When he interacts with a feedback widget
     Then he should be presented with the full screen feedback panel
