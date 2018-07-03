@@ -16,7 +16,7 @@ Feature: Searching for all weekly lesson plans
     Then
     
 
-  @ORPHAN
+  @MPP-4 @OPEN
   Scenario: Teacher can not see a list of weekly lesson plans when there is no weekly lesson plans authored
     Given blah blah blah
     And blah blah blah
