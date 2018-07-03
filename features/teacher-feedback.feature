@@ -13,3 +13,10 @@ Feature: Teacher Feedback
   Scenario: Teacher sees a widget allowing him to open the feedback editor
     When he interacts with a feedback widget
     Then he should be presented with the full screen feedback panel
+
+  @ORPHAN
+  Scenario: Teacher can close feedback panel and go to initial location
+    Given he opens the full screen feedback panel
+    When he closes the full screen feedback panel
+    Then he should be presented with the activity details view
+    
