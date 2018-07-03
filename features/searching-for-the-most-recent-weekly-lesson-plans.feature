@@ -1,6 +1,6 @@
 Feature: Searching for the most recent weekly lesson plans
 
-  @ORPHAN
+  @MPP-3 @OPEN
   Scenario: Teacher list most recent weekly lesson plans
     Given blah2
     When blah2
