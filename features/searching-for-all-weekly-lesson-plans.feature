@@ -1,6 +1,7 @@
+@teacher-features @automation
 Feature: Searching for all weekly lesson plans
 
-  @MPP-4 @COMPLETED
+  @MPP-4 @MPP-17 @OPEN
   Scenario: Teacher lists all weekly lessons authored by EFClass (10 weekly lesson plans)
     Given there are only 10 weekly lesson plans authored
     And a teacher has signed in
