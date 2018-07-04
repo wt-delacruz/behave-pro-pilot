@@ -9,7 +9,7 @@ Feature: Searching for all weekly lesson plans
     Then a list of 10 weekly lesson plans should be listed in one batch 
     And each weekly lesson plan should display it's title, skill and CEFR stage
 
-  @MPP-4 @COMPLETED
+  @MPP-4 @COMPLETED @MANUAL
   Scenario: Teacher lists all weekly lessons authored by EFClass (50 weekly lesson plans)
     Given
     When
